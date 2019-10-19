@@ -1,15 +1,26 @@
 **********************************************************************
 ### Encabezado
 
-Texto de la viñeta. Si la viñeta propuesta corresponde una continuación de opción incorrecta debe incluir la explicación de porque se ha equivocado el jugador y qué consecuencia negativa tendrá esto en desarrollo de la historia.
+la suma de los eventos te llevarán a saber qué ha sido de ella, tal como sabes que 297 es un número Kaprekar porque 297^2 = 88209 y 88 + 209 = 297. Encuentra el mayor número Kaprekar menor que 100 y sigue adelante.
+RTA Correcta: 99
+RTA Incorrecta: 45
+Explicación 99^2 = 9801, 98 + 01 = 99.
 
-Problema matemático en coherencia con el texto de la viñeta
+Si la respuesta anterior fue correcta entonces... 
 
-Respuesta correcta del problema matemático
+Despiertas en un lugar oscuro, lleno de rocas y mugre, tu celular aún tiene poca batería, la suficiente para hacer una llamada a alguno de tus 80 contactos , para desbloquear el teléfono tienes que escribir un número de 3 digitos cuya cifra de las centenas sea la mitad de la cifra de las decenas, que sea mayor que 120 y menor que 360, solo tienes tres intentos para desbloquear el celular 
 
-Respuesta incorrecta del problema matemático
 
 Solución del problema matemático
 
+El único número que cumple estas condiciones es el 240, además son 80 contactos y tres intentos 
+80x3=240
+
+Única respuesta correcta :240
+
+
 Autor o autores de la viñeta
+
+Nicolás Mejía 
+Camilo Rivera 
 **********************************************************************
